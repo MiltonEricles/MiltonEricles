@@ -7,11 +7,11 @@
 
 - 📫 Você me acha através do e-mail **milton_ericles@hotmail.com**
 
-- 📄 Possuo experiência com a criação de Relatórios de KPIs, Dashboards e através de painéis da gestão, transformação e carregamento de dados para tomada de decisões estratégicas de negócio utilizando meus conhecimentos em Oracle, SQL, Microsoft Power BI, DAX, Figma e experiência com Sistemas de gestão. [https://www.linkedin.com/in/milton-brito-a53028189](https://www.linkedin.
+- 📄 Possuo experiência com a criação de Relatórios de KPIs, Dashboards e através de painéis da gestão, transformação e carregamento de dados para tomada de decisões estratégicas de negócio utilizando meus conhecimentos em Oracle, SQL, Microsoft Power BI, DAX, Figma e experiência com Sistemas de gestão. www.linkedin.com/in/milton-brito-a53028189
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in /milton-brito-a53028189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milton-brito-a53028189" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/milton-brito-a53028189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/milton-brito-a53028189" height="30" width="40" /></a>
 <a href="https://instagram.com/@miltonericles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/ master/src/images/icons/Social/instagram.svg" alt="@miltonericles"height="30" width="40" /></a>
 </p>
 
